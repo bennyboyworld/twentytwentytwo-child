@@ -4,7 +4,7 @@ Twenty Twenty Two WordPress child theme is built for the Twenty Twenty Two paren
 
 /*
 
-Theme Name: Twenty Twenty-Two
+Theme Name: Twenty Twenty-Two Child
 
 Template: twentytwentytwo
 
